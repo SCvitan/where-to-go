@@ -1,6 +1,7 @@
 package com.example.wheretogo.model
 
-import javax.persistence.Id
+import org.springframework.data.annotation.Id
+
 
 data class Locations(
 
